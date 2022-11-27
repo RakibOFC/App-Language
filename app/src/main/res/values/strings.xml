@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Language</string>
+    <string name="selected_language">Bengali</string>
+    <string name="language">This is bangla language</string>
+</resources>

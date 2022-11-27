@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">অ্যাপ ভাষা</string>
+    <string name="selected_language">বাংলা</string>
+    <string name="language">এটি বাংলা ভাষা</string>
+</resources>
